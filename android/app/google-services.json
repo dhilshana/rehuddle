@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304256998018",
+    "project_id": "rehuddle",
+    "storage_bucket": "rehuddle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304256998018:android:3c988c18b4456f88eab29b",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5sb1HBpHsiMVZwo6Bb29d2tPnFpVorKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304256998018:android:6ffcd85685c239edeab29b",
+        "android_client_info": {
+          "package_name": "com.example.rehuddle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5sb1HBpHsiMVZwo6Bb29d2tPnFpVorKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

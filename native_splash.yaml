@@ -1,0 +1,11 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#ff0000"
+
+  android_12:
+    color: "#FBFCFC"
+    image: 'assets/splash images/rehuddle_icon-removebg-preview.png'
+    branding: 'assets/splash images/ReHuddle-removebg-preview.png'
